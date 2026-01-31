@@ -1,4 +1,4 @@
-ReconForge is a modular, configuration-driven bug bounty reconnaissance framework that automates passive and active recon workflows including subdomain discovery, live host detection, port scanning, technology fingerprinting, URL crawling, and parameter discovery.
+ReconForge is a modular, configuration-driven bug bounty reconnaissance framework that automates passive and active recon workflows, including subdomain discovery, live host detection, port scanning, technology fingerprinting, URL crawling, and parameter discovery.
 __________________________________________________________________________
 ⚙️FEATURES
 
@@ -24,15 +24,18 @@ ___________________________________________________________________________
 INSTALLATION
 
 In LINUX
+
 git clone https://github.com/dmatthewjeff27/Recon-Forge.git
+
 cd reconforge
+
 pip install -r requirements.txt
 ____________________________________________________________________________
-LEGAL DISCLAIMER
+🏦LEGAL DISCLAIMER
 
 ReconForge is intended for educational and authorized security testing only.
 ____________________________________________________________________________
-ROADMAP
+🗺️ROADMAP
 
 Plugin system
 Passive recon APIs
