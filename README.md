@@ -1,1 +1,1 @@
-# Recon-Forge
+ReconForge is a modular, configuration-driven bug bounty reconnaissance framework that automates passive and active recon workflows including subdomain discovery, live host detection, port scanning, technology fingerprinting, URL crawling, and parameter discovery.
