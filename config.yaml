@@ -1,0 +1,6 @@
+threads: 50
+timeout: 5
+ports: [21,22,25,53,80,443,8080,8443]
+crawl_depth: 2
+output_format: json
+user_agent: Recon-Forge
