@@ -3,11 +3,17 @@ __________________________________________________________________________
 ⚙️FEATURES
 
 Passive subdomain enumeration
+
 Async live-host detection
+
 Safe port scanning
+
 Technology fingerprinting
+
 URL crawling
+
 Parameter discovery
+
 JSON-based reporting
 ___________________________________________________________________________
 📐ARCHITECTURE
@@ -38,6 +44,9 @@ ____________________________________________________________________________
 🗺️ROADMAP
 
 Plugin system
+
 Passive recon APIs
+
 HTML reports
+
 Slack alerts
